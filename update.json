@@ -1,13 +1,14 @@
 {
- "versionCode": 1110,
+ "versionCode": 1111,
  "versionName":"3.1",
   "url": "https://wang-bak.pages.dev/GGB.sh",
   "fileName": "GGB.sh",
   "saveDir": "/data/user/0/bit.kernel.GGB0389/files/shell",
   "sizeBytes": 10538704,
   "updateLog": [
-  "更新推送时间4.28日19:40",
-   "内部定制观透无需刷驱动",
-   "有问题及时反馈"
+   "更新推送时间5.13日1:30",
+   "更新自动屏蔽当前观战队伍，无需手动屏蔽",
+   "优化显示，有需要的功能可以向作者反馈"
+   "有任何问题也可以及时向作者反馈"
   ]
 }
