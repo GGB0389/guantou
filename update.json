@@ -1,13 +1,16 @@
 {
- "versionCode": 1111,
+ "versionCode": 1112,
  "versionName":"3.1",
   "url": "https://wang-bak.pages.dev/GGB.sh",
   "fileName": "GGB.sh",
   "saveDir": "/data/user/0/bit.kernel.GGB0389/files/shell",
   "sizeBytes": 10538704,
   "updateLog": [
-   "更新推送时间5.13日1:30",
+   "更新推送时间5.22日11:30",
    "更新自动屏蔽当前观战队伍，无需手动屏蔽",
+   "修复自动屏蔽漏队伍，优化自动屏蔽逻辑",
+   "增加伞包预警，有人空降会提示",
+   "增加身后预警，和头顶预警显示人数距离",
    "优化显示，有需要的功能可以向作者反馈",
    "有任何问题也可以及时向作者反馈"
   ]
