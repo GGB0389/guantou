@@ -1,0 +1,1 @@
+window.__APP_RELEASE_DATA={"versionCode":2056,"versionName":"1.8.0","fileName":"观透1.8.0.APK","sizeBytes":68609665,"sizeLabel":"65.4 MB","websiteUrl":"https://ace游戏管家.top/","downloadUrl":"","forceUpdate":false,"updateLog":["内部定制观透版启动器","APP 自动检测更新","大版本强制更新（大改动，必须安装新版）","小版本选择性更新（有小毛病就更新，没毛病可跳过）","点击按钮跳转官网方可自动更新"]};
