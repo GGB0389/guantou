@@ -1,5 +1,5 @@
 {
-  "versionName": "3.8.0",
+  "versionName": "5.0.0",
   "url": "https://wang-bak.pages.dev/guantou/GGB.sh",
   "mirrors": [
     "https://guantou-26e.pages.dev/GGB.sh"
@@ -8,11 +8,7 @@
   "saveDir": "/data/user/0/com.ggb0389.games/files/shell",
   "sizeBytes": 7563144,
   "updateLog": [
-    "更新推送时间 2026.06.11.05:20",
-    "APP最新版本为1.8.0,请去官网下载最新版安装，切记不要删除原本的APP，覆盖安装就行",
-    "下载优先走服务器CDN高速线路多线程下载",
-    "增加对局时间显示，精确显示当前对局时间精确到秒",
-    "更新观战屏蔽逻辑，显示观战屏蔽队伍",
-    "有问题请及时反馈"
+    "2026年6月30更新",
+    "适配新版本"
   ]
 }

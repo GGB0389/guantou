@@ -1,16 +1,12 @@
 {
-  "versionCode": 2061,
-  "versionName": "2.0.1",
-  "fileName": "观透2.0.1.APK",
-  "sizeBytes": 5004455,
-  "sizeLabel": "4.8 MB",
+  "versionCode": 2222,
+  "versionName": "2.2.2",
   "websiteUrl": "https://ace游戏管家.top/",
-  "downloadUrl": "https://guantou-26e.pages.dev/观透2.0.1.APK",
+  "downloadUrl": "https://guantou-26e.pages.dev/观透2.2.2.APK",
+  "sizeBytes": 5282241,
+  "fileName": "观透2.2.2.APK",
   "forceUpdate": true,
   "updateLog": [
-    "2.0.1 修复登录动画点一下闪退",
-    "修复刚验证完进入主页时联网复检冲突导致误退出",
-    "授权失效时退回登录页，不再直接杀进程",
-    "登录成功后 90 秒内跳过重复联网复检"
+    "更新优化"
   ]
 }
