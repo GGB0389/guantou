@@ -1,14 +1,15 @@
 {
-  "versionName": "5.0.0",
+  "versionName": "5.2.0",
   "url": "https://wang-bak.pages.dev/guantou/GGB.sh",
   "mirrors": [
     "https://guantou-26e.pages.dev/GGB.sh"
   ],
   "fileName": "GGB.sh",
   "saveDir": "/data/user/0/com.ggb0389.games/files/shell",
-  "sizeBytes": 7563144,
+  "sizeBytes": 7567032,
   "updateLog": [
-    "2026年6月30更新",
-    "适配新版本"
+    "2026年7.1更新",
+    "修复自动屏蔽功能"，
+    "优化全图信息显示等功能"
   ]
 }
