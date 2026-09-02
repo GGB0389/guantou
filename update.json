@@ -1,11 +1,12 @@
 {
-  "versionName": "5.7.0",
+  "versionName": "5.8.0",
   "url": "https://guantou-26e.pages.dev/GGB.sh",
   "fileName": "GGB.sh",
   "saveDir": "/data/user/0/com.ggb0389.games/files/shell",
   "sizeBytes": 7567032,
   "updateLog": [
-    "适配新版本",
-    、
+    "适配新版本，自动连接游戏，优化使用体验",
+    "优化显示，新增多种血量绘图调整，推荐使用官方绘图",
+    "新增载具文字显示血条显示切换，显示效果调节"
   ]
 }
